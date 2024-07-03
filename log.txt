@@ -183,3 +183,4 @@ Jun daily 27
 Jun heavy 29-1
 Jun heavy 29-2
 Jun heavy 29-3
+Jul daily 3
