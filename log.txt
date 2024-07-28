@@ -194,3 +194,4 @@ Jul daily 23
 Jul daily 26
 Jul heavy 28-1
 Jul heavy 28-2
+Jul heavy 28-3
