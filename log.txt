@@ -197,3 +197,4 @@ Jul heavy 28-2
 Jul heavy 28-3
 Aug daily 2
 Aug daily 6
+Aug daily 9
