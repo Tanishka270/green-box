@@ -220,3 +220,4 @@ Sep heavy 28-1
 Sep heavy 28-2
 Sep heavy 28-3
 Oct daily 2
+Oct daily 5
