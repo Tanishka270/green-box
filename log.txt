@@ -234,3 +234,4 @@ Oct heavy 27-3
 Nov daily 3
 Nov daily 6
 Nov daily 9
+Nov daily 12
