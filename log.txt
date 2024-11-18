@@ -236,3 +236,4 @@ Nov daily 6
 Nov daily 9
 Nov daily 12
 Nov daily 15
+Nov daily 18
