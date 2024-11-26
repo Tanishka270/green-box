@@ -241,3 +241,4 @@ Nov daily 21
 Nov daily 24
 Nov heavy 26-1
 Nov heavy 26-2
+Nov heavy 26-3
