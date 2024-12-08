@@ -243,3 +243,4 @@ Nov heavy 26-1
 Nov heavy 26-2
 Nov heavy 26-3
 Dec daily 4
+Dec daily 8
