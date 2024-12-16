@@ -245,3 +245,4 @@ Nov heavy 26-3
 Dec daily 4
 Dec daily 8
 Dec daily 12
+Dec daily 16
