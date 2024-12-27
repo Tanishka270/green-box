@@ -249,3 +249,4 @@ Dec daily 16
 Dec daily 20
 Dec daily 24
 Dec heavy 27-1
+Dec heavy 27-2
