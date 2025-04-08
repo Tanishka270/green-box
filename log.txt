@@ -99,3 +99,4 @@ May heavy 28-3
 Daily progress 1
 Daily progress 3
 Daily progress 5
+Daily progress 8
