@@ -90,3 +90,4 @@ May daily work 30
 May heavy 10-1
 May heavy 10-2
 May heavy 10-3
+May heavy 20-1
