@@ -254,3 +254,4 @@ Dec heavy 27-3
 Jan 2026 heavy 28-1
 Jan 2026 heavy 28-2
 Jan 2026 heavy 28-3
+Jan 2026 light work 6
